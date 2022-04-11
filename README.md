@@ -19,7 +19,7 @@
 
 **Google Translate API:** - The bot automatically detects the language of your system, and translates all responses to the language if it is not English.
 
-**Wikipedia API:** - Near the end of the conversation, the bot will ask you if you have any questions about a particular medication. It will extract the longest noun in the sentance, and print the summary of the related wikipedia page, if it exists.
+**Wikipedia API:** - Near the end of the conversation, the bot will ask you if you have any questions about a particular medication. It will extract the longest noun in the sentence, and print the summary of the related wikipedia page, if it exists.
 
 ## Project Setup
 
