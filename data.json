@@ -9,8 +9,8 @@
   "nodes": [
     {
       "id": "first",
-      "children2": ["feelingGood", "howlongfeel"],
-      "children": ["askmeds"],
+      "children": ["feelingGood", "howlongfeel"],
+      "childrentest": ["askmeds"],
       "text": "I am glad to have you here today, How are you feeling?"
     },
     {
